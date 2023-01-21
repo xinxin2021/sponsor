@@ -55,12 +55,12 @@ a{
 	transform: rotatez(-15deg );
 }
 #donateBox {
-	left: calc(50% - 150px);
+	left: calc(50% - 30px);
 	top: calc(50% - 15px);
 	background-color: #fff;
 	border: 1px solid #ddd;
 	border-radius: 6px;
-	width: 299px;
+	width: 149px;
 	height: 28px;
 	float: left;
 	z-index: 1;
